@@ -1,0 +1,3 @@
+ID: 1024598166 - Nombre: 'Stiven Velasquez' - Edad: 26 - Promedo: 4.5 - Estado: Aprobado
+ID: 52096610 - Nombre: 'Yamilet Riaño' - Edad: 51 - Promedo: 4.0 - Estado: Aprobado
+ID: 1025448632 - Nombre: 'Karen Julieth' - Edad: 22 - Promedo: 3.8 - Estado: Aprobado
