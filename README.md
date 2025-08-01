@@ -34,7 +34,7 @@ El programa:
 - 🧰 POO (Clases, objetos y encapsulamiento).
 - 🔄 Ciclos y condicionales.
 - 📂 `ArrayList`.
-- 📄 `BufferedWritter' para guardar archivos en un `txt`.
+- 📄 `BufferedWritter` para guardar archivos en un `txt`.
 
 ---
 
@@ -48,6 +48,7 @@ El programa:
 │   └── PruebaEstudiante.java              # Lógica de entrada y salida por consola
 ├── estudiantes.txt            # Archivo de salida generado automáticamente
 └── README.md
+```
 
 --- 
 
